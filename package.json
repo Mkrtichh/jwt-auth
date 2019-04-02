@@ -1,0 +1,20 @@
+{
+  "name": "@mauth/jwt-auth",
+  "version": "1.0.0",
+  "description": "user authentication module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mkrtich Muradyan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mkrtichh/jwt-auth.git"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^5.2.8"
+  }
+}
